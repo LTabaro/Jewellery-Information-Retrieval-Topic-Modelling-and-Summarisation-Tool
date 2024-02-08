@@ -1,4 +1,4 @@
-# **Project: Jewellery Information Retrieval, Topic Modelling, and Summarisation Tool**
+# **Jewellery Information Retrieval, Topic Modelling, and Summarisation Tool**
 
 ### Aims
 This project aims to implement an information retrieval, topic modelling and a summarisation tool.
@@ -6,13 +6,12 @@ This project aims to implement an information retrieval, topic modelling and a s
 ### Task Descriptions: Information Retrieval, Topic Modelling, and Summarisation
 
 1. **Pre-process the dataset**. 
-2. **Latent Semantic Indexing (LSI)**. Use the pre-processed dataset for the remaining tasks.
+2. **Latent Semantic Indexing (LSI)**. 
     * Develop a Latent Semantic Indexing (LSI) model. Develop functionality such that for each query, the LSI model retrieves the top 10 most similar reviews from the dataset. 
-
     * Empirically tune the LSI model (weighting scheme and SVD dimensions) and present the results. Show the results of the best tuned models in a single graph. 
     
 3. **Neural information retrieval**.
-    * Develop a neural information retrieval model and compare its performance to the best-tuned LSI model from Task 3. 
+    * Develop a neural information retrieval model and compare its performance to the best-tuned LSI model from Task 2. 
     * Develop an interactive interface that will allow the user to type in their own query and to interact with the results.
 
 4. **Topic modelling and visualisation of search results**.
