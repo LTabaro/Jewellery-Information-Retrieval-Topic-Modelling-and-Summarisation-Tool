@@ -1,7 +1,5 @@
 # **Jewellery Information Retrieval, Topic Modelling, and Summarisation Tool**
 
-### Aims
-This project aims to implement an information retrieval, topic modelling and a summarisation tool.
 
 ### Task Descriptions: Information Retrieval, Topic Modelling, and Summarisation
 
